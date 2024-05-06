@@ -8,9 +8,9 @@ This Python script implements a Caesar cipher encryption and decryption algorith
 
 <h2>Features:</h2>
 
-- <b>Encryption and Decryption: The script allows users to encrypt and decrypt messages using the Caesar cipher. Users can choose the mode (encrypt or decrypt) and provide a shift key to specify the number of positions each letter should be shifted.</b> 
-- <b>Input Validation: The script handles input validation to ensure that the mode selected is either "encrypt" or "decrypt", and the shift key is an integer.</b>
-- <b>Special Characters Handling: Special characters (e.g., spaces, punctuation) in the input message are preserved and remain unchanged during encryption and decryption.</b>
+- <b>Encryption and Decryption:</b> The script allows users to encrypt and decrypt messages using the Caesar cipher. Users can choose the mode (encrypt or decrypt) and provide a shift key to specify the number of positions each letter should be shifted. 
+- <b>Input Validation:</b> The script handles input validation to ensure that the mode selected is either "encrypt" or "decrypt", and the shift key is an integer.
+- <b>Special Characters Handling:</b> Special characters (e.g., spaces, punctuation) in the input message are preserved and remain unchanged during encryption and decryption.
 
 <h2>How to Use:</h2>
 
