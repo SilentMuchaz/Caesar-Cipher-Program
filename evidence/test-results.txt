@@ -1,0 +1,19 @@
+test_decrypt_basic (test_caesar_cipher.CaesarCipherTests.test_decrypt_basic) ... ok
+test_encrypt_basic (test_caesar_cipher.CaesarCipherTests.test_encrypt_basic) ... ok
+test_mode_case_insensitive (test_caesar_cipher.CaesarCipherTests.test_mode_case_insensitive) ... ok
+test_negative_shift (test_caesar_cipher.CaesarCipherTests.test_negative_shift) ... ok
+test_non_ascii_characters_unchanged (test_caesar_cipher.CaesarCipherTests.test_non_ascii_characters_unchanged) ... ok
+test_preserves_mixed_case (test_caesar_cipher.CaesarCipherTests.test_preserves_mixed_case) ... ok
+test_preserves_punctuation_and_digits (test_caesar_cipher.CaesarCipherTests.test_preserves_punctuation_and_digits) ... ok
+test_rejects_invalid_mode (test_caesar_cipher.CaesarCipherTests.test_rejects_invalid_mode) ... ok
+test_rejects_non_integer_shift (test_caesar_cipher.CaesarCipherTests.test_rejects_non_integer_shift) ... ok
+test_rejects_non_string_message (test_caesar_cipher.CaesarCipherTests.test_rejects_non_string_message) ... ok
+test_round_trip (test_caesar_cipher.CaesarCipherTests.test_round_trip) ... ok
+test_shift_above_26 (test_caesar_cipher.CaesarCipherTests.test_shift_above_26) ... ok
+test_wraps_alphabet (test_caesar_cipher.CaesarCipherTests.test_wraps_alphabet) ... ok
+test_zero_shift (test_caesar_cipher.CaesarCipherTests.test_zero_shift) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.000s
+
+OK

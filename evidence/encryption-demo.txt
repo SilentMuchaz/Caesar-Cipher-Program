@@ -1,0 +1,6 @@
+$ python caesar_cipher.py
+=== CAESAR CIPHER ===
+Message: Hello, World!
+Shift key (integer): 3
+Mode (encrypt/decrypt): encrypt
+Result: Khoor, Zruog!

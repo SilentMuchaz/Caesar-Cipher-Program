@@ -1,0 +1,10 @@
+$ python caesar_cipher.py
+=== CAESAR CIPHER ===
+Message: Attack at Dawn!
+Shift key (integer): not-a-number
+Invalid shift key. Enter a whole number, such as 3 or -3.
+Shift key (integer): 29
+Mode (encrypt/decrypt): wrong
+Invalid mode. Enter 'encrypt' or 'decrypt'.
+Mode (encrypt/decrypt): encrypt
+Result: Dwwdfn dw Gdzq!
