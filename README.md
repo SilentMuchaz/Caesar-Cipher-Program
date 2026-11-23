@@ -45,9 +45,9 @@ The updated implementation supports **uppercase and lowercase text, wraparound, 
 ## Code and Documentation
 
 - [`caesar_cipher.py`](caesar_cipher.py) — updated Python implementation.
-- [`tests/test_caesar_cipher.py`](tests/test_caesar_cipher.py) — automated unit tests.
+- [`test_caesar_cipher.py`](test_caesar_cipher.py) — automated unit tests.
 - [`Caesar-Cipher-Case-Study.md`](Caesar-Cipher-Case-Study.md) — implementation details and results.
-- [`reports/01-caesar-cipher-case-study.pdf`](01-caesar-cipher-case-study.pdf) — technical project report.
+- [`01-caesar-cipher-case-study.pdf`](01-caesar-cipher-case-study.pdf) — technical project report.
 - [`evidence/`](evidence/) — captured terminal output and test evidence.
 
 ## Run the Program
